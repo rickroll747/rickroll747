@@ -9,7 +9,7 @@ I'm a software developer from **Kurdistan** 🇰🇼, passionate about coding, o
 - 😄 Pronouns: he/him...
 - ⚡ Fun fact: I have been learning Cyber-Security For Over The Past 4 and A Half Years...
 - 💻 Favorite Programming Languages: Shell, Python And VBScript!
-- ⛏️ Favorite Hobby: Cryptomining
+- ✨ Favorite Hobby: Cryptomining⛏️
 - ⚽ Big Fan Of C.F Madrid!
 - 🇰🇼 I'm from **Kurdistan**
 
