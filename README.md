@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me
-I'm a software developer from **Kurdistan** 🇰🇼, passionate about coding, open-source contributions, and learning new technologies.
+I'm a software developer from **Kurdistan**, passionate about coding, open-source contributions, and learning new technologies.
 
 - 🔭 I’m currently working on LumenMiner, A Multi-Cryptominer Designed For Both Unix And Windows Systems...
 - 💬 Ask me about my Softwares...
