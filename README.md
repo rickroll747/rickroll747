@@ -11,7 +11,7 @@ I'm a software developer from **Kurdistan**, passionate about coding, open-sourc
 - 💻 Favorite Programming Languages: Shell, Python And VBScript!
 - ✨ Favorite Hobby: Programming 
 - ⚽ Big Fan Of C.F Madrid!
-- 🇰🇼 I'm from **Kurdistan**
+- I'm from **Kurdistan**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rickroll747&show_icons=true&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rickroll747&layout=compact&hide_title=true)
